@@ -1,2 +1,2 @@
-# meus-estudos-python
+# meus-estudos-python-visualg-c++
 pra colocar meu progresso
